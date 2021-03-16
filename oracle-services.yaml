@@ -11,4 +11,3 @@ spec:
       protocol: TCP
       port: 1521
       nodePort: 31521
-    
